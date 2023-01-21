@@ -1,0 +1,16 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "movie api ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "david",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
